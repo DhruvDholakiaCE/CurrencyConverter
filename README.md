@@ -29,8 +29,10 @@ To deploy this project download this folder and run
 
 ## Screenshots
 
-![App Screenshot](./CurrencyConverterHome.jpg)
-![App Screenshot](./CurrencyConverterCalc.jpg)
+<img src="CurrencyConverterHome.jpg" alt="drawing" style="width:230px; float:left;" />
+<img src="CurrencyConverterCalc.jpg" alt="drawing" style="width:230px;"/>
+<!-- ![App Screenshot](./CurrencyConverterHome.jpg)
+![App Screenshot](./CurrencyConverterCalc.jpg) -->
 
 
 ## Demo
