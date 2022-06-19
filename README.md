@@ -1,6 +1,6 @@
 # CurrencyConverter
 
-Flutter based application that uses web-scrapping to show currency of selected countries.
+Flutter based mobile application that uses web-scrapping to show currency of selected countries.
 ## Features
 
 - Shows currency value between selected countries.
